@@ -6,8 +6,11 @@ Provides:
 * Immutable NAT instances - no SSH keys, logs sent to CloudWatch Logs
 * Dynamic public IPs to conserve EIPs
 
-![Architecture & Parameters](https://raw.githubusercontent.com/twenny/ScalablVPC/master/images/parameters.png "Architectures & Parameters")
+##Architecture & Parameters:
+![Architecture & Parameters](https://raw.githubusercontent.com/twenny/ScalableVPC/master/images/parameters.png "Architectures & Parameters")
 
+## Resource Creation Logic:
 ![Resource Creation Logic](https://raw.githubusercontent.com/twenny/ScalableVPC/master/images/creation_logic.png "Resource Creation Logic")
 
+## Condition Dependencies & Inheritance:
 ![Condition Dependencies & Inheritance](https://raw.githubusercontent.com/twenny/ScalableVPC/master/images/conditions.png "Condition Dependencies & Inheritance")
