@@ -7,10 +7,10 @@ Provides:
 * Dynamic public IPs to conserve EIPs
 
 ##Architecture & Parameters:
-![Architecture & Parameters](https://raw.githubusercontent.com/twenny/ScalableVPC/master/images/parameters.png "Architectures & Parameters")
+![Architecture & Parameters](https://raw.githubusercontent.com/ScaleSec/ScalableVPC/master/images/parameters.png "Architectures & Parameters")
 
 ## Resource Creation Logic:
-![Resource Creation Logic](https://raw.githubusercontent.com/twenny/ScalableVPC/master/images/creation_logic.png "Resource Creation Logic")
+![Resource Creation Logic](https://raw.githubusercontent.com/ScaleSec/ScalableVPC/master/images/creation_logic.png "Resource Creation Logic")
 
 ## Condition Dependencies & Inheritance:
-![Condition Dependencies & Inheritance](https://raw.githubusercontent.com/twenny/ScalableVPC/master/images/conditions.png "Condition Dependencies & Inheritance")
+![Condition Dependencies & Inheritance](https://raw.githubusercontent.com/ScaleSec/ScalableVPC/master/images/conditions.png "Condition Dependencies & Inheritance")
